@@ -1,0 +1,30 @@
+<html><body>
+some text in textFile1.txt
+--------------------------
+1 2 3 4 5 6 7 8 9 0
+qwerty <B>asdfgh</B> Zxcvbn
+middle <B>dead</B> <B>parrot</B> <B>dinosaur</B>
+ middle
+                     d    
+d
+
+         d
+ddd dd d   d d  d   d  d  d  
+mother <B>father</B> <B>family</B>
+ 
+  
+   
+ d
+  d
+  d 
+eeeee rok
+ e rok
+e rooooooook
+eroooooooooooooook 
+<B>da</B> rock e ;
+e e e e he he heh he hhe h
+e
+Zond <B>Party</B> <B>table</B> zOo ZOOOO dOcToR <B>lmaO</B>
+textFile1.txt textFile1.txt
+__________________________
+</body></html>
